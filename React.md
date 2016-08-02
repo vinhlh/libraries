@@ -17,10 +17,11 @@ Things you have to know:
 
 ## Articles
 
-1. [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.h2wklzi5z)
-2. [React Higher Order Components in depth](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.7bczncpew)
-3. [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.x5y2pcaal)
-4. [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.n7n2f0kv5)
+1. [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+2. [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.h2wklzi5z)
+3. [React Higher Order Components in depth](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.7bczncpew)
+4. [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.x5y2pcaal)
+5. [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.n7n2f0kv5)
 
 ## Links
 
