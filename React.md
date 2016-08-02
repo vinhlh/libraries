@@ -26,6 +26,7 @@ Things you have to know:
 ## Links
 
 1. [React/Redux Links](https://github.com/markerikson/react-redux-links)
+2. [React awesome](https://github.com/enaqx/awesome-react)
 
 ## Courses
 
